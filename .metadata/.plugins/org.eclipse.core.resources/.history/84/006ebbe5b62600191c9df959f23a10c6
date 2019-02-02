@@ -11,9 +11,7 @@ public class TestCollectionHashSet {
 		hs.add("Anu");
 		hs.add("Ravi");
 		hs.add("kiran");
-		//added line'
-		
-		//..
+		//added line
 		Iterator itr = hs.iterator();
 		while(itr.hasNext()){
 			System.out.println(itr.next());
